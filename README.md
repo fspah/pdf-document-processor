@@ -26,6 +26,7 @@ git clone https://github.com/fspah/pdf-document-processor.git
 cd pdf-document-processor
 
 pip install -r requirements.txt
+
 python server.py
 
 Setting up the React App
