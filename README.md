@@ -4,9 +4,15 @@ PDF document processor with OpenAI
 
 Insert a link of a PDF document and ask a question about anything inside it. Then wait for AI to search the document and generate a response.
 
+
+
+
+
 GETTING STARTED
 
 You need to have npm (for the React app) and python along with pip (for the Flask server) installed on your system.
+
+
 
 
 INSTALLING
