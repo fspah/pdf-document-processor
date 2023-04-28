@@ -39,5 +39,7 @@ npm install
 
 npm start
 
+Set up an .env file with your own API keys.
+
 The application should now be running on localhost:3000, and the server on localhost:5001.
     
