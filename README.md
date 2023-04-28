@@ -12,8 +12,6 @@ Prerequisites
 
 You need to have npm (for the React app) and python along with pip (for the Flask server) installed on your system.
 
-    For npm, you can download Node.js (which includes npm) from here.
-    For Python and pip, you can download Python from here and pip usually comes installed with Python. If not, follow this guide.
 
 Installing
 
@@ -24,23 +22,14 @@ bash
 git clone https://github.com/fspah/pdf-document-processor.git
 
 
-bash
-
 cd pdf-document-processor
 
-Setting up the Flask Server
-
-bash
-
 pip install -r requirements.txt
-
-Start the server.
-
 python server.py
 
 Setting up the React App
 
-bash
+bash - new terminal
 
 cd my-App
 
