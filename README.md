@@ -6,8 +6,6 @@ Insert a link of a PDF document and ask a question about anything inside it. The
 
 Getting Started
 
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 Prerequisites
 
 You need to have npm (for the React app) and python along with pip (for the Flask server) installed on your system.
@@ -20,7 +18,6 @@ Clone the repository to your local machine.
 bash
 
 git clone https://github.com/fspah/pdf-document-processor.git
-
 
 cd pdf-document-processor
 
